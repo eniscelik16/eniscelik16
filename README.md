@@ -37,9 +37,9 @@
 
 ### 📊 GitHub İstatistiklerim
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=kullaniciadi&show_icons=true&theme=radical&hide_border=true" alt="istatistikler" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kullaniciadi&layout=compact&theme=radical&hide_border=true" alt="diller" />
+<img src="https://github-readme-stats.vercel.app/api?username=eniscelik16&show_icons=true&theme=radical&hide_border=true" alt="istatistikler" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eniscelik16&layout=compact&theme=radical&hide_border=true" alt="diller" />
 </p>
 
 ---
-📫 **İletişim:** [(https://www.linkedin.com/in/eniscelik16/)] | [enisccelik@gmail.com]
+📫 **İletişim:** [https://www.linkedin.com/in/eniscelik16/] | [enisccelik@gmail.com]
