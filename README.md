@@ -1,4 +1,4 @@
-### Merhaba, ben [Enis]! 👋
+### Merhaba, ben Enis! 👋
 
 🚀 **Bilgisayar Mühendisliği Öğrencisi | Yapay Zeka & Veri Bilimi Tutkunu**
 
