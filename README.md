@@ -38,8 +38,7 @@ I am currently developing my skills in **Machine Learning (ML)**, **Deep Learnin
 
 ### 📊 My GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eniscelik16&show_icons=true&theme=dracula&hide_border=true" height="180" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eniscelik16&layout=compact&theme=dracula&hide_border=true" height="180" alt="languages" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=eniscelik16&theme=dracula&hide_border=true" alt="GitHub Streak" />  <img src="https://github-profile-trophy.vercel.app/?username=eniscelik16&theme=dracula&no-frame=true&no-bg=true&margin-w=4" alt="trophy" />
 </div>
 ---
 
