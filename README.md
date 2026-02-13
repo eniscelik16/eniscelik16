@@ -36,11 +36,5 @@ I am currently developing my skills in **Machine Learning (ML)**, **Deep Learnin
 
 ---
 
-### 📊 My GitHub Stats
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=eniscelik16&theme=dracula&hide_border=true" alt="GitHub Streak" />  <img src="https://github-profile-trophy.vercel.app/?username=eniscelik16&theme=dracula&no-frame=true&no-bg=true&margin-w=4" alt="trophy" />
-</div>
----
-
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/eniscelik16/)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:enisccelik16@gmail.com)
