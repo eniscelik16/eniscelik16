@@ -2,7 +2,7 @@
 
 **Junior AI Engineer** · Applied Machine Learning · LLM-Powered Applications
 
-Recent Computer Engineering graduate focused on building machine learning and AI systems that solve real problems — from data analysis and predictive modeling to computer vision and LLM-based applications.
+Recent Computer Engineering graduate focused on building machine learning and AI systems that solve real problems, from data analysis and predictive modeling to computer vision and LLM-based applications.
 
 ---
 
